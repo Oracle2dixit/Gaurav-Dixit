@@ -1,0 +1,8 @@
+{
+  "name": "Remix: myportfoliodxt",
+  "description": "A modern, high-impact personal portfolio with a streetwear creative agency aesthetic for multi-talented creators.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
